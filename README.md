@@ -1,2 +1,2 @@
 # Kitsu-implementation
-Probando la implementacion de la aip de Kitsu 
+Probando la implementacion de la api de Kitsu 
